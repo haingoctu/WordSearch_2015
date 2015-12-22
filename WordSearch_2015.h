@@ -2,6 +2,7 @@
 #define __WORD_SEARCH_H
 
 // This Header File was written by Dr. Szumlanksi from UCF.
+
 // Maximum length of any word in the dictionary. You should not hard code the
 // number 20 into any of your code. You should instead use the MAX_WORD_LENGTH
 // identifier, in case we decide to tweak this value while testing your code.
