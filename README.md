@@ -79,6 +79,6 @@ comprehensive. We will use much more elaborate test cases when grading your subm
 
 IV. Test Cases Folder
 ====================
-Include in this project is a zip folder which contains a few test cases. These test cases have dictionaries, puzzles, and respective outputs.
+Included in this project is a zip folder which contains a few test cases. Each test case has a dictionary, a puzzle, and it's respective output.
 
-Testing the program requires you to have both header and c file in a folder. Include in that same folder, a dictionary txt file renamed to simply dictionary.txt.
+Testing the program requires you to have both header and c file in a folder. Include in that same folder, a dictionary txt file renamed to simply dictionary.txt. Use the respective puzzle as the standard input.
