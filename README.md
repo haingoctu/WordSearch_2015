@@ -1,4 +1,7 @@
 # WordSearch_2015 Project written for Dr. Szumlanksi's CS 1 2015. 
+By Hai Tu.
+
+This project's intent was to familiarize ourselves with dynamically created memory and freeing them. I hope you learn from my assignment.
 
 I. Overview:
 =========
