@@ -1,7 +1,7 @@
 /*
 *   Hai Tu
 *   Word Search 
-*	December 2015.
+*	  December 2015.
 */
 
 #include <stdio.h>
