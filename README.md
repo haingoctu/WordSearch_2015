@@ -73,3 +73,9 @@ you should print a single space, followed by the number of times that word occur
 Although we have included some sample input files to get you started with testing the functionality of
 your code, we encourage you to develop your own test cases, as well. Ours are by no means
 comprehensive. We will use much more elaborate test cases when grading your submission.
+
+IV. Test Cases Folder
+====================
+Include in this project is a zip folder which contains a few test cases. These test cases have dictionaries, puzzles, and respective outputs.
+
+Testing the program requires you to have both header and c file in a folder. Include in that same folder, a dictionary txt file renamed to simply dictionary.txt.
